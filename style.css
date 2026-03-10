@@ -125,3 +125,10 @@ padding:40px;
 opacity:0.6;
 
 }
+background: linear-gradient(
+180deg,
+#0b0b12,
+#1a1a38
+);
+transform: translateY(-10px);
+box-shadow: 0 0 20px rgba(120,120,255,0.3);
